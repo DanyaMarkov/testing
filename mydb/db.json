@@ -1,0 +1,140 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "surname": "Марков",
+      "name": "Даниил",
+      "patronymic": "Андреевич",
+      "otdel": "IT отдел"
+    },
+    {
+      "id": 2,
+      "surname": "Кузьмин",
+      "name": "Егор",
+      "patronymic": "Олегович",
+      "otdel": "Юридический отдел"
+    },
+    {
+      "id": 5,
+      "name": "Григорий",
+      "surname": "Шолохов",
+      "patronymic": "Денисович",
+      "otdel": "Отдел продаж"
+    },
+    {
+      "name": "Дамир",
+      "surname": "Максяев",
+      "patronymic": "Рустемович",
+      "otdel": "Юридический отдел",
+      "id": 6
+    },
+    {
+      "name": "Александр",
+      "surname": "Марков",
+      "patronymic": "Андреевич",
+      "otdel": "Отдел доставки",
+      "id": 7
+    }
+  ],
+  "motherboards": [
+    {
+      "name": "SocketAM3",
+      "garant": "32",
+      "cost": "4129",
+      "id": 1
+    },
+    {
+      "name": "GA-78LMT",
+      "garant": "12",
+      "cost": "3595",
+      "id": 2
+    },
+    {
+      "name": "PRIME A320M-A",
+      "garant": "15",
+      "cost": "5353",
+      "id": 3
+    },
+    {
+      "name": "Samsung A40",
+      "garant": "12",
+      "cost": "5600",
+      "id": 4
+    },
+    {
+      "name": "SocketAM6",
+      "garant": "12",
+      "cost": "7000",
+      "id": 5
+    }
+  ],
+  "audi": [
+    {
+      "id": 1,
+      "name": "AUDI A3 Sedan",
+      "maxSpeed": "240 км/ч",
+      "price": "2.900 млн",
+      "weigth": "2200 кг"
+    },
+    {
+      "id": 2,
+      "name": "AUDI A4",
+      "maxSpeed": "235 км/ч",
+      "price": "2.200 млн",
+      "weigth": "2000 кг"
+    },
+    {
+      "id": 3,
+      "name": "AUDI A5",
+      "maxSpeed": "260 км/ч",
+      "price": "3.132 млн",
+      "weigth": "1900 кг"
+    }
+  ],
+  "mitsubishi": [
+    {
+      "id": 1,
+      "name": "Mitsubishi LANCER",
+      "maxSpeed": "200 км/ч",
+      "price": "2.400 млн",
+      "weigth": "2350 кг"
+    },
+    {
+      "id": 2,
+      "name": "Mitsubishi ECLIPSE",
+      "maxSpeed": "245 км/ч",
+      "price": "3.700 млн",
+      "weigth": "2800 кг"
+    },
+    {
+      "id": 3,
+      "name": "Mitsubishi PAJERO",
+      "maxSpeed": "220 км/ч",
+      "price": "3.000 млн",
+      "weigth": "3500 кг"
+    }
+  ],
+  "BMW": [
+    {
+      "id": 1,
+      "name": "BMW X7",
+      "maxSpeed": "270 км/ч",
+      "price": "4.400 млн",
+      "weigth": "2100 кг"
+    },
+    {
+      "id": 2,
+      "name": "BMW X5 F85",
+      "maxSpeed": "210 км/ч",
+      "price": "2.100 млн",
+      "weigth": "2400 кг"
+    },
+    {
+      "id": 3,
+      "name": "BMW Z4",
+      "maxSpeed": "290 км/ч",
+      "price": "3.650 млн",
+      "weigth": "1900 кг"
+    }
+  ]
+}
